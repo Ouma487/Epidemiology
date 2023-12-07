@@ -1,7 +1,7 @@
 # Epidémiologie
 
 
-Pour notre projet de deuxième semaine des CODING WEEKS,nous avons décidé de faire une modélisation de la propagation d'une épidémie dans une population de taille N,nous utilisons le modèle de prédiction  epidemiologique SIRVD  (Susceptible, Infected, Recovered, Vaccinated, Deceased).
+Pour notre projet de deuxième semaine des CODING WEEKS 2021/2022,nous avons décidé de faire une modélisation de la propagation d'une épidémie dans une population de taille N,nous utilisons le modèle de prédiction  epidemiologique SIRVD  (Susceptible, Infected, Recovered, Vaccinated, Deceased).
 
 ## Membres du groupe SOSA
 
@@ -88,10 +88,6 @@ le fichier "deplacement.py" contient toutes les fonctions nécessaires pour réa
 
 https://gitlab-ovh-04.cloud.centralesupelec.fr/sara.abkari/game_of_life_sosa/-/project_members
 
-
-## Présentation Powerpoint
-
-https://centralesupelec-my.sharepoint.com/:p:/r/personal/sara_abkari_student-cs_fr/_layouts/15/Doc.aspx?sourcedoc=%7BEA3918AB-ABD8-46A0-A895-1B8600ED6662%7D&file=Pr%C3%A9sentation.pptx&wdOrigin=OFFICECOM-WEB.MAIN.REC&ct=1637231056004&action=edit&mobileredirect=true&PreviousSessionID=70b8ec13-8aa3-45cc-a976-ab0a3efc3cbf&cid=c814639c-46e2-49a6-a6c6-0924dbdd64ec
 
 
 ## Bibliographie
